@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>DE727095-B76C-46DF-9F49-0E9944E948FC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M2.21421356,6.68284271 L7.2,11.6686292 C7.51241943,11.9810486 7.51241943,12.4875806 7.2,12.8 C6.88758057,13.1124194 6.38104858,13.1124194 6.06862915,12.8 L0.565685425,7.29705627 C0.397127705,7.12849856 0.319510887,6.9034374 0.33283497,6.68284271 C0.319510887,6.46224802 0.397127705,6.23718687 0.565685425,6.06862915 L6.06862915,0.565685425 C6.38104858,0.253265992 6.88758057,0.253265992 7.2,0.565685425 C7.51241943,0.878104858 7.51241943,1.38463684 7.2,1.69705627 L2.21421356,6.68284271 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header_Desk" transform="translate(-291.000000, -34.000000)">
+            <g id="Header">
+                <g id="Subhead" transform="translate(205.000000, 0.000000)">
+                    <g id="Particulier" transform="translate(0.000000, 30.000000)">
+                        <g id="Back_Arrow" transform="translate(93.000000, 8.000000) rotate(-90.000000) translate(-93.000000, -8.000000) translate(89.000000, 1.000000)">
+                            <g id="Group">
+                                <g id="Mask">
+                                    <g id="Color_">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                                        <g id="Color_DarkBlue" mask="url(#mask-2)" fill="#1E338D">
+                                            <rect id="Rectangle-3" x="0" y="0" width="8.04571429" height="14.08"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
